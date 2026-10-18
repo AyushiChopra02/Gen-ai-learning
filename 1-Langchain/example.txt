@@ -1,0 +1,4 @@
+Hello! This is an example text file for testing LangChain's TextLoader.
+
+LangChain is a framework for building applications powered by language models.
+TextLoader can load text files and convert their contents into LangChain Documents.
